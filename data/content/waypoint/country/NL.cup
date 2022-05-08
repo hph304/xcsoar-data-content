@@ -40,7 +40,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "Venlo Gld",,NL,5121.833N,00612.900E,43.0m,4,090,1000.0m,122.480,"Flugplatz"
 "Volkel Gld",,NL,5139.433N,00542.483E,21.0m,5,060,2750.0m,133.355,"Flugplatz"
 "Weert Budel",,NL,5115.367N,00536.117E,34.0m,5,030,1130.0m,122.150,"Flugplatz"
-"Wieringermeergld",,NL,5249.200N,00455.617E,-3.0m,4,070,940.0m,123.375,"Flugplatz"
+"Wieringermeergld",,NL,5253.570N,00500.410E,-3.0m,4,030,1200.0m,123.380,"Flugplatz"
 "Woensdrecht Gld",,NL,5126.933N,00420.533E,18.0m,5,070,2420.0m,122.480,"Flugplatz"
 "Alstatte Rs",,NL,5207.800N,00655.167E,39.0m,1,,,,"RS"
 "Amersfoort A28 A",,NL,5209.517N,00525.133E,1.0m,17,,,,"A28AB008"
